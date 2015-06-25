@@ -843,7 +843,7 @@ You can extend the CardSection (it is not mandatory) to customize your section m
     }
 ```
 
-You can **update** dinamically the CardSections.
+You can **update** dynamically the CardSections.
 
 ``` java    
    //add a single CardSection
